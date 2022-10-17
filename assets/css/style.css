@@ -81,7 +81,9 @@ body{
 section{
    padding:2rem;
 }
-
+.navbar{
+   margin-right: 20px;
+}
 .header{
    position: relative;
    z-index: 1000;
@@ -99,6 +101,7 @@ section{
 .header .navbar a{
    font-size: 2rem;
    margin-left: 2rem;
+   margin-right: 2rem;
    color:var(--black);
 }
 
