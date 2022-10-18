@@ -69,7 +69,8 @@ body{
    border-radius: .5rem;
    font-size: 1.7rem;
    text-transform: capitalize;
-   margin-top: 1rem;
+   margin-top: .5rem;
+   margin-right: .5rem;
    cursor: pointer;
 }
 
@@ -454,6 +455,7 @@ section{
 
 .contact form .btn{
    margin-top: 2rem;
+   margin-left: 623px;
 }
 
 
